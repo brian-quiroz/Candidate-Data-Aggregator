@@ -1,5 +1,5 @@
-# Filter-Candidates
-Filter candidates to congress in the Peru's 2020 Congress Election
+# Candidate-Data-Aggregator
+A Flask web app for scraping, storing, and filtering public candidate data across multiple attributes.
 
 To start the server, enter the following command into the command line:
 
